@@ -62,5 +62,6 @@ For a real deployment:
 python -m pytest -q
 ```
 
-## Suggested team workflow
-Create feature branches, use pull requests, and ask GitHub Copilot to explain generated changes and add tests before merging.
+## Hosted Link
+https://cape-code-agriprice.onrender.com/
+
