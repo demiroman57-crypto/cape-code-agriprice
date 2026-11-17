@@ -118,4 +118,9 @@ We kept the USSD flow, crop dictionary, backend setup, and demo data simple. Thi
 python -m pytest -q
 ```
 
-
+##Contributors
+Nothile Masango
+Shamain Bhengesa
+David Maila
+Paseka Moloi
+Demi Roman
